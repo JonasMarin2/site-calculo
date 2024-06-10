@@ -1,0 +1,29 @@
+body {
+    background: linear-gradient(to top left, rgb(128, 255, 128), rgb(128, 128, 255));
+    color: wheat;
+    height: 100vh;
+    margin: 32px;
+    font-size: large;
+    font-family: 'Segoe UI';
+    text-align: center;
+}
+
+.config2 {
+    font-size: large;
+    color: purple;
+}
+
+.config {
+    background-color: black;
+    color: white;
+    border-radius: 12px;
+    height: 48px;
+    text-align: center;
+}
+
+button {
+    background-color: chocolate;
+    color: white;
+    height: 36px;
+    border-radius: 12px;
+}
